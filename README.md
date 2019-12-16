@@ -1,4 +1,4 @@
-##  HW5: Lasso implementation in C++
+## Lasso implementation in C++
 
 # Introduction
 In this homework, you will practice C++ by implementing the LASSO coordinate-descent algorithm from HW4. We will only focus on fitLASSOstandardized functions and corresponding helpers as you will see the biggest speed improvement there. For simplicity, we will also avoid doing any compatibility checks in C++. In practice, you will often have an R code wrapper with all compatibility checks that then calls the corresponding function in C++.
